@@ -5,8 +5,8 @@ role: phd
 affiliation: University of Maryland
 links:
   website: 
-  email: kquinter@umd.edu
-  orcid: 0000-0002-7121-129X
+  email: zzhao127@umd.edu
+  orcid: 0000-0003-2410-0893
   github: ZexuanZhao
 ---
 

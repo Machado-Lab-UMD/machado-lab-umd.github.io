@@ -1,5 +1,5 @@
 ---
-name: Yuxi Wang, M.S.
+name: Yuxi Wang
 image: images/photo.jpg
 role: phd
 affiliation: University of Maryland
