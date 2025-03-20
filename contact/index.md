@@ -21,6 +21,14 @@ nav:
   text="machado (at) umd (dot) com"
   link="machado@umd.com"
 %}
+
+{%
+  include button.html
+  type="UMD Department of Biology"
+  text="UMD Biology"
+  link="https://biology.umd.edu"
+%}
+
 <!-- comment out
  {%
    include button.html
