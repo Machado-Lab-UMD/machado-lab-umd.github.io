@@ -1,0 +1,14 @@
+---
+name: Kevin Quinteros
+image: images/Quinteros-headshot.jpg
+role: postdoc
+affiliation: University of Maryland
+links:
+  website: https://phylofignatic.com
+  email: kquinter@umd.edu
+  orcid: 0000-0002-7121-129X
+  github: kquinteros
+  Linkedin: www.linkedin.com/in/kevin-quinteros-348a03320
+---
+
+I’m Kevin Quinteros, a postdoctoral researcher exploring the intricate relationships between plants and insects. My work combines field research and cutting-edge genomic techniques to uncover the mechanisms driving co-evolution and speciation in these interactions. Currently, I focus on the genomics of fig-wasp mutualisms, investigating how insect chemosensory genes shape host specificity and adaptation. Additionally, I study conduct population genomics analyses to understand how genetic variation influences ecological interactions. Through my research, I aim to reveal the hidden genetic factors that drive plant-insect coevolution and adaptation.
