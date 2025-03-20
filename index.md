@@ -15,12 +15,12 @@
 
 {% capture text %}
 
-Check out out lastest updatess
+Checkout out lastest Grants
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See annoucement"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

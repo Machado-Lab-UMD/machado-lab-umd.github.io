@@ -68,4 +68,5 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 
  {% endcapture %}
 
-{% include grid.html style="square" content=content %} -->
+{% include grid.html style="square" content=content %} 
+-->
