@@ -7,9 +7,11 @@ aliases:
   - C. Machado
   -  CAM
 links:
-  home-page: https://janesmith.com
+  website: https://janesmith.com
   email: machado@umd.edu
   orcid: 0000-0003-1546-7415
+  github: placeholder
+  inkedin: placeholder
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

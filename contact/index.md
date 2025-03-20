@@ -7,9 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+*Undergraduate students* interested in conducting independent research are encouraged to contact me via email (subject line: “Undergraduate Research Interest”) or stop by the lab.
+
+*Prospective Graduate Students* are encouraged to contact me inquiring about openings in the lab. Please read the information in the website to see if your interests match our research priorities. If you are interested in our work please send me an email outlining your research interests, experience and attach your CV. Check the Biological Sciences Graduate Program (BISI) for information, application deadlines and requirements. I participate in three concentration areas: Behavior, Ecology, Evolution and Systematics (BEES), Computational Biology Bioinformatics and Genomics (CBBG), and Molecular and Cellular Biology (MOCB).
+
+*Postdocs*: You are encouraged to contact me inquiring about available opportunities.
+
+*Potential collaborators* interested in discussing research opportunities are welcome to reach out via email or connect with me in person.
 
 {%
   include button.html
