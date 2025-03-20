@@ -1,14 +1,12 @@
 ---
-name: Kevin Quinteros
-image: images/Quinteros-headshot.jpg
+name: Fatemeh Yosefy 
+image: images/photo.jpg
 role: postdoc
 affiliation: University of Maryland
+aliases:
+  - Aida Yosefy
 links:
-  website: https://phylofignatico.com
-  email: kquinter@umd.edu
-  orcid: 0000-0002-7121-129X
-  github: kquinteros
-  Linkedin: www.linkedin.com/in/kevin-quinteros-348a03320
+  email: fyosefy@umd.edu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

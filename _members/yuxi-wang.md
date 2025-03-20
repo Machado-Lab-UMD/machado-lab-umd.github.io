@@ -1,14 +1,10 @@
 ---
-name: Kevin Quinteros
-image: images/Quinteros-headshot.jpg
-role: postdoc
+name: Yuxi Wang, M.S.
+image: images/photo.jpg
+role: phd
 affiliation: University of Maryland
 links:
-  website: https://phylofignatico.com
-  email: kquinter@umd.edu
-  orcid: 0000-0002-7121-129X
-  github: kquinteros
-  Linkedin: www.linkedin.com/in/kevin-quinteros-348a03320
+  email: ywang172@umd.edu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
