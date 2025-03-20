@@ -14,7 +14,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="machado[at]umd.com"
+  text=“machado [at] umd [dot] com”
   link="machado@umd.com"
 %}
 # {%
