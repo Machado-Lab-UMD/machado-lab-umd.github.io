@@ -1,7 +1,12 @@
 # site properties and page defaults
 title: Welcome to the Machado Lab
 subtitle: University of Maryland, Department of Biology
-description: Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. Our research focuses on three key areas: (i) investigating the genomic mechanisms driving species divergence in Drosophila; (ii) examining the evolution of the remarkable mutualism between figs and their pollinating wasps through genomic analysis; and (iii) using comparative and population genomics to study domestication and adaptation in crops and human parasites.
+description: >
+  Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. 
+  Our research focuses on three key areas: 
+  (i) investigating the genomic mechanisms driving species divergence in Drosophila, 
+  (ii) examining the evolution of the remarkable mutualism between figs and their pollinating wasps through genomic analysis, and 
+  (iii) using comparative and population genomics to study domestication and adaptation in crops and human parasites.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
