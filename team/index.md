@@ -1,5 +1,5 @@
 ---
-title: Team
+title: People
 nav:
   order: 3
   tooltip: About our team
@@ -13,7 +13,6 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
 
 ## **Lab Alumni**
 

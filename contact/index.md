@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Email
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
@@ -27,13 +27,12 @@ nav:
    type="phone"
    text="(555) 867-5309"
    link="+1-555-867-5309"
- %} -->
-{%
+ %}
   include button.html
   type="address"
   tooltip="4094 Campus Dr College Park, MD, USA 20742-5815"
   link="https://www.google.com/maps"
-%}
+%} -->
 
 <!-- {% include section.html %} -->
 
