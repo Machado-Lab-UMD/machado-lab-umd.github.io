@@ -1,9 +1,13 @@
 ---
 ---
 
-# Machado-Lab-UMD's Website
+# Welcome to the Machado Lab!
 
-An engaging 1-3 sentence description of your lab.
+ Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. 
+  Our research focuses on three key areas: 
+  (i) investigating the genomic mechanisms driving species divergence in Drosophila, 
+  (ii) examining the evolution of the remarkable mutualism between figs and their pollinating wasps through genomic analysis, and 
+  (iii) using comparative and population genomics to study domestication and adaptation in crops and human parasites.
 
 {% include section.html %}
 
@@ -11,7 +15,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out out lastest updatess
 
 {%
   include button.html
@@ -32,7 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
+<!--  comment out
+# {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -79,3 +84,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+-->
