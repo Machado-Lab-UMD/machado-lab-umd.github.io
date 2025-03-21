@@ -1,4 +1,4 @@
-- id: doi:10.1016/j.csbj.2020.05.017
+- id: doi.org/10.1093/gbe/evae047
   type: paper
   description: lastest paper
   image: https://academic.oup.com/view-large/figure/445872162/evae047f3.tif
@@ -6,13 +6,14 @@
     - type: source
       text: Manuscript Source
       link: https://academic.oup.com/gbe/article/16/3/evae047/7628516
+    - type: github
+      text: Code
+      link:javibio-git/SV_analysis_for_Dpse_and_Dper
   tags:
     - Drosophia
-    - stryuctural variant
+    - structural variant
   repo: javibio-git/SV_analysis_for_Dpse_and_Dper
-
 - id: doi:10.1016/j.csbj.2020.05.017
-  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
 
