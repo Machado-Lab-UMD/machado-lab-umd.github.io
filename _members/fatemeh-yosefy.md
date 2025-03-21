@@ -1,5 +1,5 @@
 ---
-name: Fatemeh Yosefy 
+name: Fatemeh Aida Yosefy 
 image: images/photo.jpg
 role: phd
 affiliation: University of Maryland

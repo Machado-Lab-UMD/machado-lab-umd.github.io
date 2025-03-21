@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}People
 
 We are an interdisciplinary team using evolutionary genomics to investigate species divergence, coevolution, and adaptation across diverse biological systems.
 
@@ -51,22 +51,3 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 - **Enwei Tian**: Visiting PhD Student from the **Chinese Academy of Sciences in Guangzhou (2012-2013)**.
 - **Whitman Schofield**: Lab technician (UA). Now holds a **PhD in Molecular, Cellular, and Developmental Biology at Yale University**.
 - **Li-Yuan Yang**: Visiting PhD Student from **Beijing Normal University (2012)**.
-<!-- 
- {% include section.html background="images/background.jpg" dark=true %}
-
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
- incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
- nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
- {% include section.html %}
-
- {% capture content %}
-
- {% include figure.html image="images/photo.jpg" %}
- {% include figure.html image="images/photo.jpg" %}
- {% include figure.html image="images/photo.jpg" %}
-
- {% endcapture %}
-
-{% include grid.html style="square" content=content %} 
--->
