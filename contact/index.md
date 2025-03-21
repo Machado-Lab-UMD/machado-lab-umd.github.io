@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-**Undergraduate students interested in conducting independent research are encouraged to contact me via email (subject line: “Undergraduate Research Interest”) or stop by the lab.
+**Undergraduate students** interested in conducting independent research are encouraged to contact me via email (subject line: “Undergraduate Research Interest”) or stop by the lab.
 
 **Prospective Graduate Students** are encouraged to contact me inquiring about openings in the lab. Please read the information in the website to see if your interests match our research priorities. If you are interested in our work please send me an email outlining your research interests, experience and attach your CV. Check the Biological Sciences Graduate Program (BISI) for information, application deadlines and requirements. I participate in three concentration areas: Behavior, Ecology, Evolution and Systematics (BEES), Computational Biology Bioinformatics and Genomics (CBBG), and Molecular and Cellular Biology (MOCB).
 
@@ -25,6 +25,7 @@ nav:
   include button.html
   type="website"
   tooltip="UMD Department of Biology"
+  text="UMD Biology"
   website="https://biology.umd.edu"
 %}
 
