@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Stay updated on the latest lab news, research highlights, and announcements.
+<p style="text-align:center;"> Stay updated on the latest lab news, research highlights, and announcements. </p>
 
 {% include section.html %}
 

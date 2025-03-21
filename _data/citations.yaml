@@ -127,9 +127,6 @@
   date: '2024-03-14'
   image: https://academic.oup.com/view-large/figure/445872162/evae047f3.tif
   buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://academic.oup.com/gbe/article/16/3/evae047/7628516
   - type: github
     text: Code
     link: javibio-git/SV_analysis_for_Dpse_and_Dper

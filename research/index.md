@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-Explore current and past research projects from the Machado Lab
+<p style="text-align:center;"> Explore current and past research projects from the Machado Lab <p>
 
 {% include tags.html tags="publication, resource, website" %}
 
