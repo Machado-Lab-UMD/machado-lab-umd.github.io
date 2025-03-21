@@ -5,10 +5,9 @@ nav:
   tooltip: Current and Past Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Current Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Explore current and past research projects from the Machado Lab
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,7 +15,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Current Projects
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
