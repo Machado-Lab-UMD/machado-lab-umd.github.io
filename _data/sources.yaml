@@ -1,6 +1,7 @@
 - id: doi.org/10.1093/gbe/evae047
   type: paper
   description: lastest paper
+  date: 2024-3-14
   image: https://academic.oup.com/view-large/figure/445872162/evae047f3.tif
   buttons:
     - type: source
@@ -10,7 +11,7 @@
       text: Code
       link: javibio-git/SV_analysis_for_Dpse_and_Dper
   tags:
-    - Drosophia
+    - drosophila
     - structural variant
   repo: javibio-git/SV_analysis_for_Dpse_and_Dper
 
