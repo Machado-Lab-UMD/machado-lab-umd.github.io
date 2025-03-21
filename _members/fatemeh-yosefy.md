@@ -1,7 +1,7 @@
 ---
 name: Fatemeh Yosefy 
 image: images/photo.jpg
-role: postdoc
+role: phd
 affiliation: University of Maryland
 aliases:
   - Aida Yosefy

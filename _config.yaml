@@ -1,14 +1,10 @@
 # site properties and page defaults
-title: Machado Lab
-subtitle: Evolutionary Genomics
-description: >
-  Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. 
-  Our research focuses on three key areas: 
-  (i) investigating the genomic mechanisms driving species divergence in Drosophila, 
-  (ii) examining the evolution of the remarkable mutualism between figs and their pollinating wasps through genomic analysis, and 
-  (iii) using comparative and population genomics to study domestication and adaptation in crops and human parasites.
-header: images/background.jpg
-footer: images/background.jpg
+title: Evolutionary Genomics
+subtitle: Machado Lab
+description: A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+logo-text: false
+header: images/backgroun-1.jpg
+footer: images/footer.jpg
 proofer: false
 
 # site social media and other links
@@ -17,8 +13,6 @@ links:
   orcid: https://orcid.org/0000-0003-1546-7415
   google-scholar: 0uj4niwAAAAJ
   github: Machado-Lab-UMD
-  #twitter: Machado-Lab-UMD
-  #youtube: Machado-Lab-UMD
 
 ### jekyll settings
 
