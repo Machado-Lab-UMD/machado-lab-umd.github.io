@@ -22,28 +22,6 @@
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2024.07.12.603340
-  title: Somy evolution in the honey bee infecting trypanosomatid parasite,<i>Lotmaria
-    passim</i>
-  authors:
-  - Lindsey M. Markowitz
-  - Anthony Nearman
-  - Zexuan Zhao
-  - Dawn Boncristiani
-  - Anzhelika Butenko
-  - Luis Miguel de Pablos
-  - Arturo Marin
-  - Guang Xu
-  - Carlos A. Machado
-  - Ryan S. Schwarz
-  - Evan C. Palmer-Young
-  - Jay D. Evans
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-07-16'
-  link: https://doi.org/g886ck
-  orcid: 0000-0003-1546-7415
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/gbe/evae047
   title: The Complex Landscape of Structural Divergence Between the <i>Drosophila
     pseudoobscura</i> and <i>D. persimilis</i> Genomes
@@ -121,15 +99,60 @@
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
-- id: doi.org/10.1038/s41467-021-20957-3
+- id: doi:10.1038/s41467-021-20957-3
+  title: Genomic evidence of prevalent hybridization throughout the evolutionary history
+    of the fig-wasp pollination mutualism
+  authors:
+  - Gang Wang
+  - Xingtan Zhang
+  - Edward Allen Herre
+  - Doyle McKey
+  - Carlos A. Machado
+  - Wen-Bin Yu
+  - Charles H. Cannon
+  - Michael L. Arnold
+  - Rodrigo A. S. Pereira
+  - Ray Ming
+  - Yi-Fei Liu
+  - Yibin Wang
+  - Dongna Ma
+  - Jin Chen
+  publisher: Nature Communications
+  date: '2021-02-02'
+  link: https://doi.org/gjx8pf
   image: https://www.nature.com/articles/s41467-021-20957-3/figures/3
   plugin: sources.py
   file: sources.yaml
-- id: doi.org/10.1111/evo.13809
+- id: doi:10.1111/evo.13809
+  title: Inferring processes of coevolutionary diversification in a community of Panamanian
+    strangler figs and associated pollinating wasps*
+  authors:
+  - Jordan D. Satler
+  - Edward Allen Herre
+  - "K. Charlotte Jand\xE9r"
+  - Deren A. R. Eaton
+  - Carlos A. Machado
+  - Tracy A. Heath
+  - John D. Nason
+  publisher: Evolution
+  date: '2019-08-08'
+  link: https://doi.org/gjffrm
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi.org/10.1093/isd/ixaa005
+- id: doi:10.1093/isd/ixaa005
+  title: Community Structure and Undescribed Species Diversity in Non-Pollinating
+    Fig Wasps Associated with the Strangler Fig Ficus petiolaris
+  authors:
+  - Jordan D Satler
+  - Kristen K Bernhard
+  - John O Stireman
+  - Carlos A Machado
+  - Derek D Houston
+  - John D Nason
+  publisher: Insect Systematics and Diversity
+  date: '2020-03-01'
+  link: https://doi.org/g89cng
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isd/4/2/10.1093_isd_ixaa005/3/m_ixaa005f0001.jpeg?Expires=1744831066&Signature=Fx~2yJQvm1e4Dwm7Sf67S0Bqe3yVAHzGMbYsYi~ONxrGK3Y4opeUvc3RDEHOvfz2OMO7lVmX9bLF75iZ591v2twoMkUmfV6HJd0AM5k4udQ~FYoXtR3NAgZZ~odASWlnOy71X5DUHI7B8XVVvNw3ihjbJLf98j4sU0pX4sRZ1gm-E-c9cg5mTBpsTrxVWISfwyaxom--M-eeiEzHPShfCnFBs~79pQSd1jzZBWbSYssoGGBYWYWxErEJ~fhYei6btBb~K8i8W6lVN1O5fpJ3ceRQ5aXyb7P5t44iG39ZW49byLnUc2hGNMcruvc7WGY4UUjWIwPQpaza7jJLsb~9ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
