@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 <p style="text-align:center;"> Stay updated on the latest lab news, research highlights, and announcements. </p>
 
