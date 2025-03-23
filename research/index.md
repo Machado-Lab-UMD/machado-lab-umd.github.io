@@ -8,9 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. Our research focuses on three key areas:
-{:.center}
-## speciation · evolution · genomics
-{:.center}
+
 {% include section.html %}
 ## Uncovering Genomic Mechanisms Driving Species Divergence in Drosophila
 
