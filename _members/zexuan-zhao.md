@@ -1,7 +1,7 @@
 ---
 name: Zexuan Zhao
 image: images/Zexuanzhao.png
-role: phd
+role: phd-cand
 affiliation: University of Maryland
 links:
   email: zzhao127@umd.edu
@@ -9,10 +9,4 @@ links:
   github: ZexuanZhao
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am Zexuan Zhao, a PhD candidate specializing in evolutionary genomics and bioinformatics. My research focuses on the genome  evolution of *Pegoscapus* fig wasps, especially on how transposable elements are interwined with genome architecture. Driven by the progression of new sequencing technologies, I am also excited at developing innovative bioinformatic pipelines that help to uncover the unknown realm of genomes.

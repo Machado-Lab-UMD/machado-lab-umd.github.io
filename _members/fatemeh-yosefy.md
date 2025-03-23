@@ -1,6 +1,6 @@
 ---
 name: Fatemeh Aida Yosefy 
-image: images/photo.jpg
+image: images/FatemehYosefy.jpg
 role: phd
 affiliation: University of Maryland
 aliases:
@@ -9,10 +9,4 @@ links:
   email: fyosefy@umd.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am a second year PhD student in the BEES program. I am interested in hybrid sterility in *Drosophila* species with focus on molecular mechanisms and suppressors interfere with meiotic drive elements. 

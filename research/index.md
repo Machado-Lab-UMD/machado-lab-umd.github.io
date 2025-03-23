@@ -5,17 +5,17 @@ nav:
   tooltip: Current and Past Research Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-<p style="text-align:center;"> Explore current and past research projects from the Machado Lab <p>
+Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. Our research focuses on three key areas:
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+- investigating the genomic mechanisms driving species divergence in Drosophila
+- examining the evolution of the mutualism between figs and their pollinating wasps
+- using comparative and population genomics to study domestication and adaptation in crops and human parasites.
 
 {% include section.html %}
 
-## Current Projects
+# Current Projects
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 

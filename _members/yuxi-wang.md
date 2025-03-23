@@ -1,7 +1,7 @@
 ---
 name: Yuxi Wang
 image: images/photo.jpg
-role: phd
+role: phd-cand
 affiliation: University of Maryland
 links:
   website: https://sites.google.com/umd.edu/yuxiwang/biograph

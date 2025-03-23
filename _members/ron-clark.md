@@ -1,7 +1,7 @@
 ---
 name: Ronald J Clark
 image: images/Ronald-Clark-prepped.jpg
-role: phd
+role: phd-cand
 affiliation: University of Maryland
 links:
   email: rclark24@umd.edu

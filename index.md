@@ -1,36 +1,30 @@
 ---
+title: Home
 ---
 
-# Welcome to the Machado Lab!
+{:.center}
+{% include section.html size="full" %}
+{% include banner.html image="images/banner.jpg" text="EVOLUTIONARY GENOMICS" %}
+{% include section.html%}
+# speciation · evolution · genomics
+{:.center}
 
- Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. Our research focuses on three key areas: 
-  1. investigating the genomic mechanisms driving species divergence in Drosophila, 
-  2. examining the evolution of the remarkable mutualism between figs and their pollinating wasps through genomic analysis, and 
-  3. using comparative and population genomics to study domestication and adaptation in crops and human parasites.
-
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-<p style="text-align:center;"> Check out the lastest lab announcements and news! </p>
+<p style="text-align:center;"> Check out the lastest lab research and news! </p>
 
 {%
   include button.html
-  link="research"
-  text="See annoucement"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
+  icon="fa-solid fa-wrench" 
+  tooltip="Learn More"
+  text="Research"
+  link="Research"
 %}
-
-{% endcapture %}
-
 {%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
+  include button.html
+  icon="fa-solid fa-feather-pointed"
+  tooltip="Learn More"
+  text="News"
+  link="News"
 %}
+
+
+{% include site-search.html %}
