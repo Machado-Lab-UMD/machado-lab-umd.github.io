@@ -35,6 +35,25 @@
   plugin: sources.py
   file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/16/3/10.1093_gbe_evae047/2/evae047f3.jpeg?Expires=1745709879&Signature=mmGfWjWZGr~3gZktEn11hmJHhGhgHwx~ygPpLh4q5u3cYN3LvVGwPBPcyAQmEtaV0T5RXVUdFK58aj7YLsAhihaoyQ5hjYqy3l~xs-JIhH9mY9GfCBOv4QAm2hpd6fRupuiTaL1Fjct8PQgZUn1rG9ZVP~oWGShRuOZ-plVEqV1OnLBpeIg8QbLWyvfQ-x0iDlW-q0UYDYZBwoOeOeGUGftEGpcsm~0AQyMP~mNhmkVB0oRN30d4aG3SWZsVdEyUTGn6v9cgk8-rNuiA52LhSgZtmwT35~smEtgXPRQ5rArHpRsY7ee6nyH-oMQhNICWd-e~fT32QS8I1FMAUq9nPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1002/ece3.10501
+  title: 'Field sampling of fig pollinator wasps across host species and host developmental
+    phase: Implications for host recognition and specificity'
+  authors:
+  - Aafke Oldenbeuving
+  - "Adalberto G\xF3mez\u2010Z\xFAniga"
+  - "Ximena Florez\u2010Buitrago"
+  - "Ana M. Guti\xE9rrez\u2010Zuluaga"
+  - Carlos A. Machado
+  - "Tom J. M. Van\_Dooren"
+  - Jacques van Alphen
+  - Jacobus C. Biesmeijer
+  - Edward Allen Herre
+  publisher: Ecology and Evolution
+  date: '2023-09-01'
+  link: https://doi.org/gtppmm
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ece3.9673
   title: "Pollinator and host sharing lead to hybridization and introgression in Panamanian\
     \ free\u2010standing figs, but not in their pollinator wasps"
@@ -97,6 +116,79 @@
   publisher: Evolution
   date: '2021-06-19'
   link: https://doi.org/gj7t6v
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34002050
+  title: Molecular mechanisms of mutualistic and antagonistic interactions in a plant-pollinator
+    association.
+  authors:
+  - Rong Wang
+  - Yang Yang
+  - Yi Jing
+  - Simon T Segar
+  - Yu Zhang
+  - Gang Wang
+  - Jin Chen
+  - Qing-Feng Liu
+  - Shan Chen
+  - Yan Chen
+  - Astrid Cruaud
+  - Yuan-Yuan Ding
+  - Derek W Dunn
+  - Qiang Gao
+  - Philip M Gilmartin
+  - Kai Jiang
+  - Finn Kjellberg
+  - Hong-Qing Li
+  - Yuan-Yuan Li
+  - Jian-Quan Liu
+  - Min Liu
+  - Carlos A Machado
+  - Ray Ming
+  - Jean-Yves Rasplus
+  - Xin Tong
+  - Ping Wen
+  - Huan-Ming Yang
+  - Jing-Jun Yang
+  - Ye Yin
+  - Xing-Tan Zhang
+  - Yuan-Ye Zhang
+  - Hui Yu
+  - Zhen Yue
+  - Stephen G Compton
+  - Xiao-Yong Chen
+  publisher: Nature ecology & evolution
+  date: '2021-05-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34002050
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28660301
+  title: Evolution of GSTD1 in Cactophilic Drosophila.
+  authors:
+  - "Karina L\xF3pez-Olmos"
+  - Therese Ann Markow
+  - Carlos A Machado
+  publisher: Journal of molecular evolution
+  date: '2017-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28660301
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.09.418376
+  title: Genome-wide sequence data show no evidence of admixture and introgression
+    among pollinator wasps associated with a community of Panamanian strangler figs
+  authors:
+  - Jordan D. Satler
+  - Edward Allen Herre
+  - Tracy A. Heath
+  - Carlos A. Machado
+  - "Adalberto G\xF3mez Z\xFA\xF1iga"
+  - John D. Nason
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-12-09'
+  link: https://doi.org/g89g7p
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
