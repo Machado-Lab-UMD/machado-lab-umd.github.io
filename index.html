@@ -43,22 +43,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Machado Lab</title>
+<title>Home | Machado Lab</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="">
-<meta name="description" content="Evolutionary Genomics. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
+<meta name="title" content="Home">
+<meta name="description" content="at the University of Maryland. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 
-<meta property="og:title" content="">
+<meta property="og:title" content="Home">
 <meta property="og:site_title" content="Machado Lab">
-<meta property="og:description" content="Evolutionary Genomics. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
+<meta property="og:description" content="at the University of Maryland. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="og:url" content="https://machado-lab-umd.github.io">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="">
-<meta property="twitter:description" content="Evolutionary Genomics. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
+<meta property="twitter:title" content="Home">
+<meta property="twitter:description" content="at the University of Maryland. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="twitter:url" content="https://machado-lab-umd.github.io">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -73,9 +73,9 @@
     
       "@type": "WebSite",
     
-    "name": "",
-    "description": "Evolutionary Genomics. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.",
-    "headline": "",
+    "name": "Home",
+    "description": "at the University of Maryland. A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.",
+    "headline": "Home",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -124,6 +124,10 @@
 
   
     <link href="/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/banner.css" rel="stylesheet">
   
 
   
@@ -340,6 +344,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -379,7 +385,7 @@
 
 
 
-<header class="background" style="--image: url('/images/background-1.jpg')" data-dark="true" data-big>
+<header class="background" style="--image: url('/false')" data-dark="true" data-big>
   <a href="/" class="home">
     
       <span class="logo">
@@ -428,6 +434,15 @@
         
       </span>
     
+    
+      <span class="title-text" data-tooltip="Home">
+        
+          <span class="title">Machado Lab</span>
+        
+        
+          <span class="subtitle">at the University of Maryland</span>
+        
+      </span>
     
   </a>
 
@@ -486,15 +501,19 @@
   
   
 
-  <section class="background" data-size="page">
-    <h1 id="welcome-to-the-machado-lab">Welcome to the Machado Lab!</h1>
+  <section class="background" data-size="full">
+    <!--
+  <background></background>
+  <dark></dark>
+  <size>full</size>
+-->
 
-<p>Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. Our research focuses on three key areas:</p>
-<ol>
-  <li>investigating the genomic mechanisms driving species divergence in Drosophila,</li>
-  <li>examining the evolution of the remarkable mutualism between figs and their pollinating wasps through genomic analysis, and</li>
-  <li>using comparative and population genomics to study domestication and adaptation in crops and human parasites.</li>
-</ol>
+<div class="banner-container">
+    <img src="/images/banner.jpg" loading="lazy" alt="Website Banner">
+    <div class="banner-text">
+        EVOLUTIONARY GENOMICS
+    </div>
+</div>
   </section>
 
   
@@ -508,31 +527,34 @@
   <size></size>
 -->
 
-<h2 id="highlights">Highlights</h2>
+<h1 class="center" id="speciation--evolution--genomics">speciation · evolution · genomics</h1>
 
-<div class="feature">
-  <a href="/research" class="feature-image" aria-label="Our Research">
-    <img src="/images/photo.jpg" loading="lazy" alt="Our Research" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  <div class="feature-text">
-    
-      <p class="feature-title">Our Research</p>
-    
-    
-<p style="text-align:center;"> Check out the lastest lab announcements and news! </p>
+<p style="text-align:center;"> Check out the lastest lab research and news! </p>
 
 <div class="button-wrapper">
-    <a class="button" href="/research" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
+    <a class="button" href="/Research" data-tooltip="Learn More" data-style="" aria-label="Learn More">
+      <i class="icon fa-solid fa-wrench"></i>
       
-        <span>See annoucement</span>
+        <span>Research</span>
       
     </a>
   </div>
 
-
+<div class="button-wrapper">
+    <a class="button" href="/News" data-tooltip="Learn More" data-style="" aria-label="Learn More">
+      <i class="icon fa-solid fa-feather-pointed"></i>
+      
+        <span>News</span>
+      
+    </a>
   </div>
-</div>
+
+<form onsubmit="onSiteSearchSubmit(event)">
+  <input type="text" name="query" placeholder="Search site with Google">
+  <button type="submit" class="button" aria-label="search site">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</form>
   </section>
 
 
