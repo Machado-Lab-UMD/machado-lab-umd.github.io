@@ -2,10 +2,13 @@
 title: People
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About Our Team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}People
+{% include section.html size="full" %}
+{% include section_banner.html image="images/GrandCanyon.jpeg" text="People" %}
+{% include section.html%}
+
 
 We are an interdisciplinary team using evolutionary genomics to investigate species divergence, coevolution, and adaptation across diverse biological systems.
 

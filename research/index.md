@@ -5,7 +5,9 @@ nav:
   tooltip: Current and Past Research Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+{% include section.html size="full" %}
+{% include section_banner.html image="images/Sedona.jpeg" text="Research" %}
+{% include section.html%}
 
 Our lab explores evolutionary genomics to uncover the processes shaping species formation and genomic diversity. Our research focuses on three key areas:
 

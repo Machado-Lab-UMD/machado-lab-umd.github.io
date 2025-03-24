@@ -2,10 +2,12 @@
 title: News
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Lab Announcements and News
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
+{% include section.html size="full" %}
+{% include section_banner.html image="images/Tayrona.jpeg" text="News" %}
+{% include section.html%}
 
 <p style="text-align:center;"> Stay updated on the latest lab news, research highlights, and announcements. </p>
 

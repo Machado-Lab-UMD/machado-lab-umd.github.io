@@ -5,7 +5,9 @@ nav:
   tooltip: Email and Department
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+{% include section.html size="full" %}
+{% include section_banner.html image="images/Banner.jpg" text="Contact" %}
+{% include section.html%}
 
 **Undergraduate students** interested in conducting independent research are encouraged to contact me via email (subject line: “Undergraduate Research Interest”) or stop by the lab.
 
@@ -23,6 +25,7 @@ nav:
 %}
 {%
   include button.html
+  icon="fa-solid fa-up-right-from-square"
   type="=website"
   tooltip="UMD Department of Biology"
   text="UMD Biology"
