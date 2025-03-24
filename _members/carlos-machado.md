@@ -3,6 +3,8 @@ name: Carlos Machado
 image: images/carlos-machado.jpg
 role: principal-investigator
 affiliation: University of Maryland
+aliases:
+  - Carlos A. Machado
 links:
   home-page: https://biology.umd.edu/people/carlos-machado
   orcid: 0000-0003-1546-7415

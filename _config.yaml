@@ -1,8 +1,7 @@
 # site properties and page defaults
 title: Machado Lab
 subtitle: at the University of Maryland
-description: A website for the Machado lab using an easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo-text: True
+description: speciation · evolution · genomics
 header: false
 footer: images/footer.jpg
 baseurl: /

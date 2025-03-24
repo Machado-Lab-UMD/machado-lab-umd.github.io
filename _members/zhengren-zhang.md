@@ -5,12 +5,7 @@ role: phd
 affiliation: University of Maryland
 links:
   email: zzhang44@umd.edu
+  orcid: 0000-0001-7984-7586
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+My recent research focuses on the genomic co-evolution of figs and fig wasps, particularly on the genomic elements that control key traits in fig wasps. I also work on the phylogenetic and community analyses of this mutualistic system.
