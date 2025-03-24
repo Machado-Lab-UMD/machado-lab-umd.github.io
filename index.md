@@ -16,12 +16,12 @@ title: Home
   icon="fa-solid fa-wrench" 
   tooltip="Learn More"
   text="Research"
-  link="research"
+  link="[research](https://machado-lab-umd.github.io/Research)"
 %}
 {%
   include button.html
   icon="fa-solid fa-feather-pointed"
   tooltip="Learn More"
   text="News"
-  link="news"
+  link="[news](https://machado-lab-umd.github.io/Research)"
 %}
