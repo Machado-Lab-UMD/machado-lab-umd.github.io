@@ -11,11 +11,14 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd-cand'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'mascot'" %}
 
 ## **Lab Alumni**
-
 ### **PhDs**
 - **Suwei Zhao**: Lab Manager. **Retired**
 - **Javier Carpinteyro**: PhD Student (UMD, 2022). Now a **Bioinformatics Research Associate** at the **Carnegie Institution for Science**
