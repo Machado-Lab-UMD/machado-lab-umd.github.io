@@ -1,6 +1,6 @@
 ---
 name: Yuxi Wang
-image: images/photo.jpg
+image: images/YuxiWang.jpg
 role: phd-cand
 affiliation: University of Maryland
 links:
@@ -8,10 +8,4 @@ links:
   email: ywang172@umd.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am Yuxi Wang a PhD candidate interested in molecular biology and lncRNA (long noncoding RNA) in *Drosophila*. My current research focus on characterizing the phenotypic effects of disrupting conserved lncRNAs in *D. melanogaster* and *D. pseudoobscura*.
