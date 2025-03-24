@@ -16,12 +16,12 @@ title: Home
   icon="fa-solid fa-wrench" 
   tooltip="Learn More"
   text="Research"
-  link="Research"
+  link="research"
 %}
 {%
   include button.html
   icon="fa-solid fa-feather-pointed"
   tooltip="Learn More"
   text="News"
-  link="News"
+  link="news"
 %}
