@@ -4,7 +4,7 @@ title: Home
 
 {:.center}
 {% include section.html size="full" %}
-{% include banner.html image="images/banner.jpg" text="EVOLUTIONARY GENOMICS" %}
+{% include banner.html image="images/Banner.jpg" text="EVOLUTIONARY GENOMICS" %}
 {% include section.html%}
 ## speciation · evolution · genomics
 {:.center}
