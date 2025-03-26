@@ -9,4 +9,4 @@ links:
   github: ZexuanZhao
 ---
 
-I am Zexuan Zhao, a PhD candidate specializing in evolutionary genomics and bioinformatics. My research focuses on the genome  evolution of *Pegoscapus* fig wasps, especially on how transposable elements are interwined with genome architecture. Driven by the progression of new sequencing technologies, I am also excited at developing innovative bioinformatic pipelines that help to uncover the unknown realm of genomes.
+I am Zexuan Zhao, a PhD candidate specializing in evolutionary genomics and bioinformatics. My research explores genome evolution in *Pegoscapus* fig wasps, with a focus on the role of transposable elements in shaping genome architecture. With the advancement of sequencing technologies, I am also passionate about developing innovative bioinformatics pipelines to uncover the hidden complexities of genomes.

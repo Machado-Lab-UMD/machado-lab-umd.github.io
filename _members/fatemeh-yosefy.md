@@ -9,4 +9,4 @@ links:
   email: fyosefy@umd.edu
 ---
 
-I am a second year PhD student in the BEES program. I am interested in hybrid sterility in *Drosophila* species with focus on molecular mechanisms and suppressors interfere with meiotic drive elements. 
+I am a second-year PhD student in the BEES program. My research focuses on hybrid sterility in Drosophila species, specifically investigating the molecular mechanisms and suppressors that interfere with meiotic drive elements.
