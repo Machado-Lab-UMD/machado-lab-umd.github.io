@@ -9,7 +9,7 @@ title: Home
 ## Evolution · Genomics  · Speciation
 {:.center}
 
-<p style="text-align:center;"> Check out the lastest lab research and news! </p>
+<p style="text-align:center;"> We are an evolutionary biology lab that uses genomic datasets and functional genomic methods (e.g. CRISPR) to understand the processes and mechanisms that generate species and genomic diversity.  </p>
 
 {%
   include button.html
