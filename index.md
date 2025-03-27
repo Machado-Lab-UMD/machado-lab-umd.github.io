@@ -6,7 +6,7 @@ title: Home
 {% include section.html size="full" %}
 {% include banner.html image="images/Banner2.jpg" text="EVOLUTIONARY GENOMICS" %}
 {% include section.html%}
-## speciation · evolution · genomics
+## Evolution · Genomics  · Speciation
 {:.center}
 
 <p style="text-align:center;"> Check out the lastest lab research and news! </p>
