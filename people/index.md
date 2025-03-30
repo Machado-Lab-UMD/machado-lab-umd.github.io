@@ -36,24 +36,13 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 - **Anna Himler**: Now an **Associate Professor** at **The College of Idaho, Biology Department**.
 - **Wendy Marussich**
 
-### **Undergraduates and Visiting Graduate Students**
-- **Elise Ahn**: General Biology major (UMD).
-- **Kacie Baker**: General Biology major (UMD).
-- **Sarah Cavanaugh**: General Biology major and UBRP student (UA).
-- **Mikhail Chavis**: Molecular Biology major (UMD). Now in the **Graduate Program in Biology at Villanova University**.
-- **Katy Davis**: MCB major (UA).
-- **Abby DiVito**: EEB major (UMD). Now a **PhD student at the University of Pennsylvania**.
-- **Dalziel Dominguez**: EEB major (UA).
-- **Victoria Duckworth**: EEB major (UA).
-- **Henry Ertl**: General Biology major (UMD). Now a **PhD student at the University of Michigan**.
-- **Erica Hudson**: EEB major (UA). Now holds a **PhD in Ocean Sciences at the University of South Florida**.
-- **Yiressy Izaguirre**: General Biology major (UMD).
-- **Kristen Jacobs**: MCB major (UA).
-- **July Kelley**: MCB major and UBRP student (UA).
-- **Erin Kuroiwa**: Physiology major (UA).
-- **Erik Mohlhenrich**: General Biology major (UMD). Now in the **Graduate Program in Ecology and Evolutionary Biology at Colorado State University**.
-- **Laura Rascon**: Lab technician (UMD). Now in the **Master’s Program in Environmental and Occupational Exposure Sciences at the University of Washington**.
-- **Levi Teitz**: General Biology major (UMD). Now a **PhD student at M.I.T.**.
-- **Enwei Tian**: Visiting PhD Student from the **Chinese Academy of Sciences in Guangzhou (2012-2013)**.
-- **Whitman Schofield**: Lab technician (UA). Now holds a **PhD in Molecular, Cellular, and Developmental Biology at Yale University**.
-- **Li-Yuan Yang**: Visiting PhD Student from **Beijing Normal University (2012)**.
+### **Undergraduate students (since 2015)**
+- **Elise Ahn**
+- **Kacie Baker**
+- **Abby DiVito**: Earned a **PhD from the University of Pennsylvania, Department of Biology (Levine Lab)**.
+- **Henry Ertl**: Earned a **PhD the University of Michigan, Department of Ecology and Evolutionary Biology (Wittkopp Lab)**.
+- **Yiressy Izaguirre**
+- **Grant Joe**
+- **Brandon Joe**
+- **Erik Mohlhenrich**: Earned a **Masters from the Program in Ecology and Evolutionary Biology at Colorado State University**.
+- **Levi Teitz**: Earned a **PhD from MIT, Department of Biology (Page Lab).**.
