@@ -4,7 +4,7 @@ image: images/YuxiWang.jpg
 role: phd-cand
 affiliation: University of Maryland
 links:
-  website: [https://phylofignatico.com](https://sites.google.com/umd.edu/yuxiwang/
+  website: https://phylofignatico.com](https://sites.google.com/umd.edu/yuxiwang/
   email: ywang172@umd.edu
 ---
 
