@@ -6,7 +6,7 @@ affiliation: University of Maryland
 aliases:
   - Carlos A. Machado
 links:
-  home-page: https://biology.umd.edu/people/carlos-machado
+  home-page: https://machado-lab-umd.github.io
   orcid: 0000-0003-1546-7415
 ---
 
