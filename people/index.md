@@ -37,12 +37,21 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 - **Wendy Marussich**
 
 ### **Undergraduate students (since 2015)**
-- **Elise Ahn**
-- **Kacie Baker**
+- **Kacie Baker**: Is now a **Cancer Genetic Counselor**.
 - **Abby DiVito**: Earned a **PhD from the University of Pennsylvania, Department of Biology (Levine Lab)**.
 - **Henry Ertl**: Earned a **PhD the University of Michigan, Department of Ecology and Evolutionary Biology (Wittkopp Lab)**.
-- **Yiressy Izaguirre**
-- **Grant Joe**
-- **Brandon Joe**
 - **Erik Mohlhenrich**: Earned a **Masters from the Program in Ecology and Evolutionary Biology at Colorado State University**.
-- **Levi Teitz**: Earned a **PhD from MIT, Department of Biology (Page Lab).**.
+- **Levi Teitz**: Earned a **PhD from MIT, Department of Biology (Page Lab)**.
+- **Elise Ahn**
+- **Olivia Carey**
+- **Prakhya Chikkem**
+- **Sarah Covert**
+- **Ashley Drumm**
+- **Yiressy Izaguirre**: Attended Medical School
+- **Grant Joe**: Attended Medical School
+- **Brandon Joe**: Attended Dental School
+- **Gregory Mack**
+- **Bryson Martin**
+- **Sabrina Nusraty**
+- **Emilia Toloza**
+- **Eric Xu**
