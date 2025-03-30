@@ -90,6 +90,22 @@
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/mec.16373
+  title: "Genome\u2010wide sequence data show no evidence of hybridization and introgression\
+    \ among pollinator wasps associated with a community of Panamanian strangler figs"
+  authors:
+  - Jordan D. Satler
+  - Edward Allen Herre
+  - Tracy A. Heath
+  - Carlos A. Machado
+  - "Adalberto G\xF3mez Z\xFA\xF1iga"
+  - John D. Nason
+  publisher: Molecular Ecology
+  date: '2022-02-07'
+  link: https://doi.org/gtppmn
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2021.11.10.468115
   title: Phylogenetic diversity of two common<i>Trypanosoma cruzi</i>lineages in the
     Southwestern United States
@@ -164,6 +180,116 @@
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/isd/ixaa005
+  title: Community Structure and Undescribed Species Diversity in Non-Pollinating
+    Fig Wasps Associated with the Strangler Fig Ficus petiolaris
+  authors:
+  - Jordan D Satler
+  - Kristen K Bernhard
+  - John O Stireman
+  - Carlos A Machado
+  - Derek D Houston
+  - John D Nason
+  publisher: Insect Systematics and Diversity
+  date: '2020-03-01'
+  link: https://doi.org/g89cng
+  orcid: 0000-0003-1546-7415
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isd/4/2/10.1093_isd_ixaa005/3/m_ixaa005f0001.jpeg?Expires=1744831066&Signature=Fx~2yJQvm1e4Dwm7Sf67S0Bqe3yVAHzGMbYsYi~ONxrGK3Y4opeUvc3RDEHOvfz2OMO7lVmX9bLF75iZ591v2twoMkUmfV6HJd0AM5k4udQ~FYoXtR3NAgZZ~odASWlnOy71X5DUHI7B8XVVvNw3ihjbJLf98j4sU0pX4sRZ1gm-E-c9cg5mTBpsTrxVWISfwyaxom--M-eeiEzHPShfCnFBs~79pQSd1jzZBWbSYssoGGBYWYWxErEJ~fhYei6btBb~K8i8W6lVN1O5fpJ3ceRQ5aXyb7P5t44iG39ZW49byLnUc2hGNMcruvc7WGY4UUjWIwPQpaza7jJLsb~9ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1111/evo.13809
+  title: Inferring processes of coevolutionary diversification in a community of Panamanian
+    strangler figs and associated pollinating wasps*
+  authors:
+  - Jordan D. Satler
+  - Edward Allen Herre
+  - "K. Charlotte Jand\xE9r"
+  - Deren A. R. Eaton
+  - Carlos A. Machado
+  - Tracy A. Heath
+  - John D. Nason
+  publisher: Evolution
+  date: '2019-08-08'
+  link: https://doi.org/gjffrm
+  orcid: 0000-0003-1546-7415
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+- id: doi:10.1038/s41588-018-0040-0
+  title: Genomes of 13 domesticated and wild rice relatives highlight genetic conservation,
+    turnover and innovation across the genus Oryza
+  authors:
+  - Joshua C. Stein
+  - Yeisoo Yu
+  - Dario Copetti
+  - Derrick J. Zwickl
+  - Li Zhang
+  - Chengjun Zhang
+  - Kapeel Chougule
+  - Dongying Gao
+  - Aiko Iwata
+  - Jose Luis Goicoechea
+  - Sharon Wei
+  - Jun Wang
+  - Yi Liao
+  - Muhua Wang
+  - Julie Jacquemin
+  - Claude Becker
+  - Dave Kudrna
+  - Jianwei Zhang
+  - Carlos E. M. Londono
+  - Xiang Song
+  - Seunghee Lee
+  - Paul Sanchez
+  - Andrea Zuccolo
+  - Jetty S. S. Ammiraju
+  - Jayson Talag
+  - Ann Danowitz
+  - Luis F. Rivera
+  - Andrea R. Gschwend
+  - Christos Noutsos
+  - Cheng-chieh Wu
+  - Shu-min Kao
+  - Jhih-wun Zeng
+  - Fu-jin Wei
+  - Qiang Zhao
+  - Qi Feng
+  - Moaine El Baidouri
+  - Marie-Christine Carpentier
+  - Eric Lasserre
+  - Richard Cooke
+  - Daniel da Rosa Farias
+  - Luciano Carlos da Maia
+  - Railson S. dos Santos
+  - Kevin G. Nyberg
+  - Kenneth L. McNally
+  - Ramil Mauleon
+  - Nickolai Alexandrov
+  - Jeremy Schmutz
+  - Dave Flowers
+  - Chuanzhu Fan
+  - Detlef Weigel
+  - Kshirod K. Jena
+  - Thomas Wicker
+  - Mingsheng Chen
+  - Bin Han
+  - Robert Henry
+  - Yue-ie C. Hsing
+  - Nori Kurata
+  - Antonio Costa de Oliveira
+  - Olivier Panaud
+  - Scott A. Jackson
+  - Carlos A. Machado
+  - Michael J. Sanderson
+  - Manyuan Long
+  - Doreen Ware
+  - Rod A. Wing
+  publisher: Nature Genetics
+  date: '2018-01-22'
+  link: https://doi.org/gc2k55
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:28660301
   title: Evolution of GSTD1 in Cactophilic Drosophila.
   authors:
@@ -173,6 +299,739 @@
   publisher: Journal of molecular evolution
   date: '2017-06-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28660301
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/g3.116.033779
+  title: Genome Evolution in Three Species of Cactophilic<i>Drosophila</i>
+  authors:
+  - Alejandro Sanchez-Flores
+  - "Fernando Pe\xF1aloza"
+  - Javier Carpinteyro-Ponce
+  - Nestor Nazario-Yepiz
+  - Cei Abreu-Goodger
+  - Carlos A Machado
+  - Therese Ann Markow
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2016-10-01'
+  link: https://doi.org/g8992h
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gbe/evw116
+  title: Comparative Expression Dynamics of Intergenic Long Noncoding RNAs in the
+    Genus<i>Drosophila</i>
+  authors:
+  - Kevin G. Nyberg
+  - Carlos A. Machado
+  publisher: Genome Biology and Evolution
+  date: '2016-05-18'
+  link: https://doi.org/f8tkmh
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.13438
+  title: "Lack of genetic isolation by distance, similar genetic structuring but different\
+    \ demographic histories in a fig\u2010pollinating wasp mutualism"
+  authors:
+  - Enwei Tian
+  - John D. Nason
+  - Carlos A. Machado
+  - Linna Zheng
+  - Hui Yu
+  - Finn Kjellberg
+  publisher: Molecular Ecology
+  date: '2015-11-25'
+  link: https://doi.org/f724c2
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.meegid.2015.04.008
+  title: 'Differences in inferred genome-wide signals of positive selection during
+    the evolution of Trypanosoma cruzi and Leishmania spp. lineages: A result of disparities
+    in host and tissue infection ranges?'
+  authors:
+  - "Carlos A. Flores-L\xF3pez"
+  - Carlos A. Machado
+  publisher: Infection, Genetics and Evolution
+  date: '2015-07-01'
+  link: https://doi.org/f7h4zp
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0130745
+  title: Metatranscriptome Analysis of Fig Flowers Provides Insights into Potential
+    Mechanisms for Mutualism Stability and Gall Induction
+  authors:
+  - Ellen O. Martinson
+  - Jeremiah D. Hackett
+  - Carlos A. Machado
+  - A. Elizabeth Arnold
+  publisher: PLOS ONE
+  date: '2015-06-19'
+  link: https://doi.org/f7rmn3
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evo.12584
+  title: The incidence and pattern of copollinator diversification in dioecious and
+    monoecious figs
+  authors:
+  - "Li\u2010Yuan Yang"
+  - Carlos A. Machado
+  - "Xiao\u2010Dong Dang"
+  - "Yan\u2010Qiong Peng"
+  - "Da\u2010Rong Yang"
+  - "Da\u2010Yong Zhang"
+  - "Wan\u2010Jin Liao"
+  publisher: Evolution
+  date: '2015-01-19'
+  link: https://doi.org/f62kz5
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.3044
+  title: The genome sequence of African rice (Oryza glaberrima) and evidence for independent
+    domestication
+  authors:
+  - Muhua Wang
+  - Yeisoo Yu
+  - Georg Haberer
+  - Pradeep Reddy Marri
+  - Chuanzhu Fan
+  - Jose Luis Goicoechea
+  - Andrea Zuccolo
+  - Xiang Song
+  - Dave Kudrna
+  - Jetty S S Ammiraju
+  - Rosa Maria Cossu
+  - Carlos Maldonado
+  - Jinfeng Chen
+  - Seunghee Lee
+  - Nick Sisneros
+  - Kristi de Baynast
+  - Wolfgang Golser
+  - Marina Wissotski
+  - Woojin Kim
+  - Paul Sanchez
+  - Marie-Noelle Ndjiondjop
+  - Kayode Sanni
+  - Manyuan Long
+  - Judith Carney
+  - Olivier Panaud
+  - Thomas Wicker
+  - Carlos A Machado
+  - Mingsheng Chen
+  - Klaus F X Mayer
+  - Steve Rounsley
+  - Rod A Wing
+  publisher: Nature Genetics
+  date: '2014-09-01'
+  link: https://doi.org/f6g4tw
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actao.2013.07.009
+  title: 'Relative investment in egg load and poison sac in fig wasps: Implications
+    for physiological mechanisms underlying seed and wasp production in figs'
+  authors:
+  - Ellen O. Martinson
+  - "K. Charlotte Jand\xE9r"
+  - Yan-Qiong Peng
+  - Huan-Huan Chen
+  - Carlos A. Machado
+  - A. Elizabeth Arnold
+  - Edward Allen Herre
+  publisher: Acta Oecologica
+  date: '2014-05-01'
+  link: https://doi.org/gtmz93
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9781118552872.ch2
+  title: 'Transcriptome Profiling of<i>Drosophila</i>Interspecific Hybrids: Insights
+    into Mechanisms of Regulatory Divergence and Hybrid Dysfunction'
+  authors:
+  - "Jos\xE9 M. Ranz"
+  - "Shu\u2010Dan Yeh"
+  - Kevin G. Nyberg
+  - Carlos A. Machado
+  publisher: Polyploid and Hybrid Genomics
+  date: '2013-04-04'
+  link: https://doi.org/g8992j
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-384719-5.00282-3
+  title: Diversity, Molecular Level
+  authors:
+  - Carlos A. Machado
+  - Marcos A. Antezana
+  publisher: Encyclopedia of Biodiversity
+  date: '2013-01-01'
+  link: https://doi.org/g8992k
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.12035
+  title: "Permanent Genetic Resources added to Molecular Ecology Resources Database\
+    \ 1 August 2012 \u2013 30 September 2012"
+  authors:
+  - "Adam Ahanch\xE9d\xE9"
+  - "Jos\xE9 E. F. Alfaya"
+  - L. W. Andersen
+  - Didier Azam
+  - Ma. Anita M. Bautista
+  - "Anne\u2010Laure Besnard"
+  - Gregorio Bigatti
+  - "Anthony Bou\xE9tard"
+  - "Marie\u2010Agn\xE8s Coutellec"
+  - "Eben\u2010Ezer B. K. Ew\xE9dj\xE8"
+  - Reiko Fuseya
+  - "Ricardo Garc\xCDa\u2010Jim\xE9nez"
+  - M. Haratian
+  - Olivier J. Hardy
+  - "L.\u2010E. Holm"
+  - Casey W. Hoy
+  - Eriko Koshimizu
+  - V. Loeschcke
+  - "Violeta L\xF3pez\u2010M\xE1rquez"
+  - Carlos A. Machado
+  - Annie Machordom
+  - C. Marchi
+  - Andrew P. Michel
+  - Claire Micheneau
+  - Omprakash Mittapalli
+  - Takahiro Nagai
+  - Nobuaki Okamoto
+  - Ying Pan
+  - F. Panitz
+  - N. Safaie
+  - Takashi Sakamoto
+  - B. Sharifnabi
+  - "En\u2010Wei Tian"
+  - Hui Yu
+  publisher: Molecular Ecology Resources
+  date: '2012-11-26'
+  link: https://doi.org/f4g8k8
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3732/ajb.1200032
+  title: "Anonymous and EST\u2010based microsatellite DNA markers that transfer broadly\
+    \ across the fig tree genus (<i>Ficus</i>, Moraceae)"
+  authors:
+  - Katrin Heer
+  - Carlos A. Machado
+  - Anna G. Himler
+  - Edward Allen Herre
+  - Elisabeth K. V. Kalko
+  - Christopher W. Dick
+  publisher: American Journal of Botany
+  date: '2012-08-01'
+  link: https://doi.org/f35kr2
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00248-012-0079-x
+  title: Culture-Free Survey Reveals Diverse and Distinctive Fungal Communities Associated
+    with Developing Figs (Ficus spp.) in Panama
+  authors:
+  - Ellen O. Martinson
+  - Edward Allen Herre
+  - Carlos A. Machado
+  - A. Elizabeth Arnold
+  publisher: Microbial Ecology
+  date: '2012-06-23'
+  link: https://doi.org/f396z9
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2164-13-207
+  title: Transcriptome of the adult female malaria mosquito vector Anopheles albimanus
+  authors:
+  - "Jes\xFAs Mart\xEDnez-Barnetche"
+  - "Rosa E G\xF3mez-Barreto"
+  - "Marbella Ovilla-Mu\xF1oz"
+  - "Juan T\xE9llez-Sosa"
+  - "David E Garc\xEDa L\xF3pez"
+  - Rhoel R Dinglasan
+  - Ceereena Ubaida Mohien
+  - Robert M MacCallum
+  - Seth N Redmond
+  - John G Gibbons
+  - Antonis Rokas
+  - Carlos A Machado
+  - Febe E Cazares-Raga
+  - "Lilia Gonz\xE1lez-Cer\xF3n"
+  - "Salvador Hern\xE1ndez-Mart\xEDnez"
+  - "Mario H Rodr\xEDguez L\xF3pez"
+  publisher: BMC Genomics
+  date: '2012-05-30'
+  link: https://doi.org/f4c3rf
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0001272
+  title: Analyses of 32 Loci Clarify Phylogenetic Relationships among Trypanosoma
+    cruzi Lineages and Support a Single Hybridization prior to Human Contact
+  authors:
+  - "Carlos A. Flores-L\xF3pez"
+  - Carlos A. Machado
+  publisher: PLoS Neglected Tropical Diseases
+  date: '2011-08-02'
+  link: https://doi.org/c7tw66
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msq293
+  title: Enrichment of mRNA-like Noncoding RNAs in the Divergence of Drosophila Males
+  authors:
+  - Z.-F. Jiang
+  - D. A. Croshaw
+  - Y. Wang
+  - J. Hey
+  - C. A. Machado
+  publisher: Molecular Biology and Evolution
+  date: '2010-11-01'
+  link: https://doi.org/fktr3w
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294x.2009.04429.x
+  title: "Host specificity, phenotype matching and the evolution of reproductive isolation\
+    \ in a coevolved plant\u2013pollinator mutualism"
+  authors:
+  - ANNA G. HIMLER
+  - CARLOS A. MACHADO
+  publisher: Molecular Ecology
+  date: '2009-12-01'
+  link: https://doi.org/fgs27q
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.109.105775
+  title: Evolution of Sex-Dependent Gene Expression in Three Recently Diverged Species
+    of Drosophila
+  authors:
+  - Zi-Feng Jiang
+  - Carlos A Machado
+  publisher: Genetics
+  date: '2009-11-01'
+  link: https://doi.org/dvm63n
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ympev.2009.05.028
+  title: Molecular dating and biogeography of fig-pollinating wasps
+  authors:
+  - Carlos Lopez-Vaamonde
+  - "Niklas Wikstr\xF6m"
+  - Karl M. Kjer
+  - George D. Weiblen
+  - Jean Yves Rasplus
+  - Carlos A. Machado
+  - James M. Cook
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2009-09-01'
+  link: https://doi.org/bjr4km
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1146/annurev.ecolsys.37.091305.110232
+  title: 'Evolutionary Ecology of Figs and Their Associates: Recent Progress and Outstanding
+    Puzzles'
+  authors:
+  - Edward Allen Herre
+  - "K. Charlotte Jand\xE9r"
+  - Carlos Alberto Machado
+  publisher: Annual Review of Ecology, Evolution, and Systematics
+  date: '2008-12-01'
+  link: https://doi.org/cv4bzh
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.107.086074
+  title: 'Polytene Chromosomal Maps of 11 Drosophila Species: The Order of Genomic
+    Scaffolds Inferred From Genetic and Physical Maps'
+  authors:
+  - Stephen W Schaeffer
+  - Arjun Bhutkar
+  - Bryant F McAllister
+  - Muneo Matsuda
+  - Luciano M Matzkin
+  - Patrick M O'Grady
+  - Claudia Rohde
+  - Vera L S Valente
+  - "Montserrat Aguade\u0301"
+  - Wyatt W Anderson
+  - Kevin Edwards
+  - Ana C L Garcia
+  - Josh Goodman
+  - James Hartigan
+  - Eiko Kataoka
+  - Richard T Lapoint
+  - Elena R Lozovsky
+  - Carlos A Machado
+  - Mohamed A F Noor
+  - Montserrat Papaceit
+  - Laura K Reed
+  - Stephen Richards
+  - Tania T Rieger
+  - Susan M Russo
+  - Hajime Sato
+  - Carmen Segarra
+  - Douglas R Smith
+  - Temple F Smith
+  - Victor Strelets
+  - Yoshiko N Tobari
+  - Yoshihiko Tomimura
+  - Marvin Wasserman
+  - Thomas Watts
+  - Robert Wilson
+  - Kiyohito Yoshida
+  - Therese A Markow
+  - William M Gelbart
+  - Thomas C Kaufman
+  publisher: Genetics
+  date: '2008-07-01'
+  link: https://doi.org/c93wvh
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.107.070672
+  title: Divergence Between the <i>Drosophila pseudoobscura</i> and <i>D. persimilis</i>
+    Genome Sequences in Relation to Chromosomal Inversions
+  authors:
+  - Mohamed A F Noor
+  - David A Garfield
+  - Stephen W Schaeffer
+  - Carlos A Machado
+  publisher: Genetics
+  date: '2007-11-01'
+  link: https://doi.org/fsxhjb
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature06341
+  title: Evolution of genes and genomes on the Drosophila phylogeny
+  authors: []
+  publisher: Nature
+  date: '2007-11-01'
+  link: https://doi.org/d48
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294x.2007.03325.x
+  title: "Multilocus nuclear sequences reveal intra\u2010 and interspecific relationships\
+    \ among chromosomally polymorphic species of cactophilic <i>Drosophila</i>"
+  authors:
+  - CARLOS A. MACHADO
+  - LUCIANO M. MATZKIN
+  - LAURA K. REED
+  - THERESE A. MARKOW
+  publisher: Molecular Ecology
+  date: '2007-05-25'
+  link: https://doi.org/fn3j2m
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jas.2006.09.002
+  title: The survival of PCR-amplifiable DNA in cow leather
+  authors:
+  - Annick Vuissoz
+  - Michael Worobey
+  - Nancy Odegaard
+  - Michael Bunce
+  - Carlos A. Machado
+  - Niels Lynnerup
+  - Elizabeth E. Peacock
+  - M. Thomas P. Gilbert
+  publisher: Journal of Archaeological Science
+  date: '2007-05-01'
+  link: https://doi.org/c2z4h2
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294x.2007.03278.x
+  title: "Host\u2010specificity and coevolution among pollinating and nonpollinating\
+    \ New World fig wasps"
+  authors:
+  - WENDY A. MARUSSICH
+  - CARLOS A. MACHADO
+  publisher: Molecular Ecology
+  date: '2007-04-13'
+  link: https://doi.org/bq2s5f
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.106.064758
+  title: Evaluation of the Genomic Extent of Effects of Fixed Inversion Differences
+    on Intraspecific Variation and Interspecific Gene Flow in <i>Drosophila pseudoobscura</i>
+    and <i>D. persimilis</i>
+  authors:
+  - Carlos A Machado
+  - Tamara S Haselkorn
+  - Mohamed A F Noor
+  publisher: Genetics
+  date: '2007-03-01'
+  link: https://doi.org/bpkt83
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294x.2006.03102.x
+  title: Functional genomics of cactus host shifts in <i> Drosophila mojavensis</i>
+  authors:
+  - LUCIANO M. MATZKIN
+  - THOMAS D. WATTS
+  - BENJAMIN G. BITLER
+  - CARLOS A. MACHADO
+  - THERESE A. MARKOW
+  publisher: Molecular Ecology
+  date: '2006-09-06'
+  link: https://doi.org/bw5ghz
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tree.2005.09.002
+  title: Uncovering evolutionary patterns of gene expression using microarrays
+  authors:
+  - "Jos\xE9 M. Ranz"
+  - Carlos A. Machado
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2006-01-01'
+  link: https://doi.org/bndfw6
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2005.3249
+  title: "60 million years of co-divergence in the fig\u2013wasp symbiosis"
+  authors:
+  - "Nina R\xF8nsted"
+  - George D Weiblen
+  - James M Cook
+  - Nicolas Salamin
+  - Carlos A Machado
+  - Vincent Savolainen
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2005-09-27'
+  link: https://doi.org/dtfh6v
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0501840102
+  title: Critical review of host specificity and its coevolutionary implications in
+    the fig/fig-wasp mutualism
+  authors:
+  - Carlos A. Machado
+  - Nancy Robbins
+  - M. Thomas P. Gilbert
+  - Edward Allen Herre
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2005-04-25'
+  link: https://doi.org/dm9wj9
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-294x.2004.02158.x
+  title: Inbreeding and population structure in two pairs of cryptic fig wasp species
+  authors:
+  - Drude Molbo
+  - Carlos A. Machado
+  - Edward Allen Herre
+  - Laurent Keller
+  publisher: Molecular Ecology
+  date: '2004-03-12'
+  link: https://doi.org/d425ch
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nrg1112
+  title: "The study of structured populations \u2014 new hope for a difficult and\
+    \ divided science"
+  authors:
+  - Jody Hey
+  - Carlos A. Machado
+  publisher: Nature Reviews Genetics
+  date: '2003-07-01'
+  link: https://doi.org/cd9z4h
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2003.2333
+  title: The causes of phylogenetic conflict in a classic<i>Drosophila</i>species
+    group
+  authors:
+  - C. A. Machado
+  - J. Hey
+  publisher: 'Proceedings of the Royal Society of London. Series B: Biological Sciences'
+  date: '2003-06-07'
+  link: https://doi.org/c7tdgj
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0930903100
+  title: "Cryptic species of fig-pollinating wasps: Implications for the evolution\
+    \ of the fig\u2013wasp mutualism, sex allocation, and precision of adaptation"
+  authors:
+  - Drude Molbo
+  - Carlos A. Machado
+  - Jan G. Sevenster
+  - Laurent Keller
+  - Edward Allen Herre
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2003-04-24'
+  link: https://doi.org/dffk7g
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2002.2100
+  title: 'The distribution of<i>Wolbachia</i>in fig wasps: correlations with host
+    phylogeny, ecology and population structure'
+  authors:
+  - D. DeWayne Shoemaker
+  - Carlos A. Machado
+  - Drude Molbo
+  - John H. Werren
+  - Donald M. Windsor
+  - Edward Allen Herre
+  publisher: 'Proceedings of the Royal Society of London. Series B: Biological Sciences'
+  date: '2002-11-07'
+  link: https://doi.org/c2kmzd
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/oxfordjournals.molbev.a004103
+  title: 'Inferring the History of Speciation from Multilocus DNA Sequence Data: The
+    Case of Drosophila pseudoobscura and Close Relatives'
+  authors:
+  - Carlos A. Machado
+  - Richard M. Kliman
+  - Jeffrey A. Markert
+  - Jody Hey
+  publisher: Molecular Biology and Evolution
+  date: '2002-04-01'
+  link: https://doi.org/fx7nmx
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0166-6851(02)00019-1
+  title: Sequence variation in the dihydrofolate reductase-thymidylate synthase (DHFR-TS)
+    and trypanothione reductase (TR) genes of Trypanosoma cruzi
+  authors:
+  - Carlos A Machado
+  - Francisco J Ayala
+  publisher: Molecular and Biochemical Parasitology
+  date: '2002-04-01'
+  link: https://doi.org/cb6dpf
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.121187198
+  title: "Nucleotide sequences provide evidence of genetic exchange among distantly\
+    \ related lineages of\n            <i>Trypanosoma cruzi</i>"
+  authors:
+  - Carlos A. Machado
+  - Francisco J. Ayala
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2001-06-19'
+  link: https://doi.org/bnxjqx
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/cbo9780511609084.007
+  title: 'Selective Regime and Fig Wasp Sex Ratios: Toward Sorting Rigor from Pseudo-Rigor
+    in Tests of Adaptation'
+  authors:
+  - Edward Allen Herre
+  - Carlos A. Machado
+  - Stuart A. West
+  publisher: Adaptationism and Optimality
+  date: '2001-06-04'
+  link: https://doi.org/dbxgjj
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2000.1418
+  title: Phylogenetic relationships, historical biogeography and character evolution
+    of fig-pollinating wasps
+  authors:
+  - Carlos A. Machado
+  - Emmanuelle Jousselin
+  - Finn Kjellberg
+  - Stephen G. Compton
+  - Edward Allen Herre
+  publisher: 'Proceedings of the Royal Society of London. Series B: Biological Sciences'
+  date: '2001-04-07'
+  link: https://doi.org/c83gng
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/oxfordjournals.molbev.a003834
+  title: Evolutionary History of Microsatellites in the Obscura Group of Drosophila
+  authors:
+  - Mohamed A. F. Noor
+  - Richard M. Kliman
+  - Carlos A. Machado
+  publisher: Molecular Biology and Evolution
+  date: '2001-04-01'
+  link: https://doi.org/fzt8s2
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/35054057
+  title: Testing Hamilton's rule with competition between relatives
+  authors:
+  - Stuart A. West
+  - Martyn G. Murray
+  - Carlos A. Machado
+  - Ashleigh S. Griffin
+  - Edward Allen Herre
+  publisher: Nature
+  date: '2001-01-01'
+  link: https://doi.org/ftgjgs
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b0-12-226865-2/00076-6
+  title: Diversity, Molecular Level
+  authors:
+  - Carlos A. Machado
+  - Marcos A. Antezana
+  publisher: Encyclopedia of Biodiversity
+  date: '2001-01-01'
+  link: https://doi.org/c9bff4
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2699.1996.tb00015.x
+  title: "Molecular phylogenies of fig pollinating and non\u2010pollinating wasps\
+    \ and the implications for the origin and evolution of the fig\u2010fig wasp mutualism"
+  authors:
+  - Carlos A. Machado
+  - Edward Allen Herre
+  - Shawn McCafferty
+  - Eldredge Bermingham
+  publisher: Journal of Biogeography
+  date: '1996-07-01'
+  link: https://doi.org/bc2tbk
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2699.1996.tb00014.x
+  title: Molecular phylogenies of figs and their pollinator wasps
+  authors:
+  - Edward Allen Herre
+  - C. A. Machado
+  - E. Bermingham
+  - J. D. Nason
+  - D. M. Windsor
+  - S. S. McCafferty
+  - W. Van Houten
+  - K. Bachmann
+  publisher: Journal of Biogeography
+  date: '1996-07-01'
+  link: https://doi.org/cxmzdc
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
@@ -214,38 +1073,5 @@
   date: '2021-02-02'
   link: https://doi.org/gjx8pf
   image: https://www.nature.com/articles/s41467-021-20957-3/figures/3
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/evo.13809
-  title: Inferring processes of coevolutionary diversification in a community of Panamanian
-    strangler figs and associated pollinating wasps*
-  authors:
-  - Jordan D. Satler
-  - Edward Allen Herre
-  - "K. Charlotte Jand\xE9r"
-  - Deren A. R. Eaton
-  - Carlos A. Machado
-  - Tracy A. Heath
-  - John D. Nason
-  publisher: Evolution
-  date: '2019-08-08'
-  link: https://doi.org/gjffrm
-  image: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/isd/ixaa005
-  title: Community Structure and Undescribed Species Diversity in Non-Pollinating
-    Fig Wasps Associated with the Strangler Fig Ficus petiolaris
-  authors:
-  - Jordan D Satler
-  - Kristen K Bernhard
-  - John O Stireman
-  - Carlos A Machado
-  - Derek D Houston
-  - John D Nason
-  publisher: Insect Systematics and Diversity
-  date: '2020-03-01'
-  link: https://doi.org/g89cng
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isd/4/2/10.1093_isd_ixaa005/3/m_ixaa005f0001.jpeg?Expires=1744831066&Signature=Fx~2yJQvm1e4Dwm7Sf67S0Bqe3yVAHzGMbYsYi~ONxrGK3Y4opeUvc3RDEHOvfz2OMO7lVmX9bLF75iZ591v2twoMkUmfV6HJd0AM5k4udQ~FYoXtR3NAgZZ~odASWlnOy71X5DUHI7B8XVVvNw3ihjbJLf98j4sU0pX4sRZ1gm-E-c9cg5mTBpsTrxVWISfwyaxom--M-eeiEzHPShfCnFBs~79pQSd1jzZBWbSYssoGGBYWYWxErEJ~fhYei6btBb~K8i8W6lVN1O5fpJ3ceRQ5aXyb7P5t44iG39ZW49byLnUc2hGNMcruvc7WGY4UUjWIwPQpaza7jJLsb~9ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
