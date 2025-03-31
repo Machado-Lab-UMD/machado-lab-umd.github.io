@@ -24,4 +24,4 @@ nav:
 
 {% include section.html %}
 ## Studying the Genomic Basis of Crop Domestication and Adaptation in Human Parasites
-{% capture content %} {% include figure.html image="images/trypanosoma.jpg" caption="Trypanosoma brucei copyright ©Eye of Science / Photo Researchers, Inc." width="200px" %} {% endcapture %} {% include float.html content=content %} Although these topics are not our main research focus we are happy to host students interested in studying plant domestication (mostly figs or rice) or human parasite evolution (mostly _Trypanosoma cruzi_, the agent of Chagas’ disease).
+{% capture content %} {% include figure.html image="images/trypanosoma.jpg" caption="Trypanosoma brucei copyright ©Eye of Science / Photo Researchers, Inc." width="200px" %} {% endcapture %} {% include float.html content=content %} Although these topics are not our main research focus, we are happy to host students interested in plant domestication (mostly figs or rice) or human parasite evolution (mostly _Trypanosoma cruzi_, the agent of Chagas’ disease).
