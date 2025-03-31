@@ -1,10 +1,10 @@
 ---
 name: Abigial Lakew
 
-image: images/photo.jpg
+image: images/Abigial_Lakew.jpg
 role: undergrad
 affiliation: University of Maryland
 links:
 ---
 
-Abi is interested in studying the the role of lncRNAs in species divergence in Drosophila 
+Abi, a General Biology major, studies the *Drosophila* genome, focusing on gene regulation, development, and cellular processes, with a current focus on lncRNAs in species divergence.
