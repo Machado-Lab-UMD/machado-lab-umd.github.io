@@ -20,6 +20,6 @@ title: Home
   include button.html
   icon="fa-solid fa-feather-pointed"
   tooltip="Learn More"
-  text="News"
-  link="machado-lab-umd.github.io/Research"
+  text="UMD Biology"
+  link="https://biology.umd.edu"
 %}
