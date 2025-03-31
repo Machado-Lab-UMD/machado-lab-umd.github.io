@@ -7,9 +7,10 @@ title: Home
 {% include banner.html image="images/Banner2.jpg" text="EVOLUTIONARY GENOMICS" %}
 {% include section.html%}
 ## Evolution · Genomics  · Speciation
+## We use Genomic data and functional genomic methods to study evoltionary processes and mechanisms
 {:.center}
 
-<p style="text-align:center;"> We are an evolutionary biology lab that uses genomic datasets and functional genomic methods (e.g. CRISPR) to understand the processes and mechanisms that generate species and genomic diversity.  </p>
+<p style="text-align:center;"> We are an evolutionary biology lab that uses genomic datasets and functional genomic methods (e.g. CRISPR) to understand evolutionary processes and mechanisms that generate species and genomic diversity.  </p>
 
 {%
   include button.html
