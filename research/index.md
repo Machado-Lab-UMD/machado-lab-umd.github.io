@@ -11,11 +11,6 @@ nav:
 
 <p> Our lab uses a diverse suite of approaches to uncover the processes shaping species formation and genomic diversity. Our research focuses on two key areas </p>
 
-// CSS
-p {
-    font-size: 14px;
-}
-
 {% include section.html %}
 ## Uncovering Genomic Mechanisms Driving Species Divergence in Drosophila
 
