@@ -6,7 +6,7 @@ title: Home
 {% include section.html size="full" %}
 {% include banner.html image="images/Banner2.jpg" text="EVOLUTIONARY GENOMICS" %}
 {% include section.html%}
-## We use genomic data and functional genomic methods (e.g. CRISPR) to study evolutionary processes and mechanisms. We are interested in uncovering the processes shaping species formation and patterns of genomic diversity.
+## We are an interdisciplinary team using genomic data and functional genomic methods (e.g. CRISPR) to study evolutionary processes and mechanisms. We study patterns and mechanisms of species divergence, coevolution and adaptation across diverse biological systems.
 {:.center}
 
 {%
