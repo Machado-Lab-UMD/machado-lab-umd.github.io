@@ -9,8 +9,6 @@ title: Home
 ## We use genomic data and functional genomic methods (e.g. CRISPR) to study evolutionary processes and mechanisms
 {:.center}
 
-<p style="text-align:center;"> We are an evolutionary biology lab that uses genomic datasets and functional genomic methods (e.g. CRISPR) to understand evolutionary processes and mechanisms that generate species and genomic diversity.  </p>
-
 {%
   include button.html
   icon="fa-solid fa-wrench" 
