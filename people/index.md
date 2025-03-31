@@ -10,7 +10,7 @@ nav:
 {% include section.html%}
 
 
-We are an interdisciplinary team using evolutionary genomics to investigate species divergence, coevolution, and adaptation across diverse biological systems.
+We are an interdisciplinary team using evolutionary genomic approaches to investigate species divergence, coevolution, and adaptation across diverse biological systems.
 
 {% include section.html %}
 
