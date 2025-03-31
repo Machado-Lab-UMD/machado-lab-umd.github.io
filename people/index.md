@@ -27,14 +27,13 @@ We are an interdisciplinary team using evolutionary genomics to investigate spec
 - **Kevin Nyberg**: PhD Student and Postdoc (UMD, 2015). Now an **Assistant Professor** at the **Biological Sciences Department, Ohio University**.
 - **Kawther Abdilleh**: PhD Student (UMD, 2014). Now a **Director, Data Science and Informatics** at the **Pancreatic Cancer Action Network (PanCAN)**.
 - **Carlos A. Flores**: PhD Student (UMD, 2013). Now a **Professor** at the **Faculty of Sciences, Universidad Autónoma de Baja California (UABC), Ensenada, Mexico**.
-- **Suwei Zhao**: Lab Manager. **Retired**.
 
 ### **Postdocs**
 - **Kevin Nyberg**: Now an **Assistant Professor** at the **Ohio University, Biological Sciences Department**.
 - **Zi-Feng Jiang**: Now a **Chief Medical Technologist at University of Chicago Medical center**.
 - **Dean Croshaw**: Now a **Professor** at **Florida Gulf Coast University**.
 - **Anna Himler**: Now an **Associate Professor** at **The College of Idaho, Biology Department**.
-- **Wendy Marussich**
+- **Wendy Marussich** Now a **Psychiatric Mental Health Nurse Practitioner**.
 
 ### **Undergraduate students (since 2015)**
 - **Kacie Baker**: Is a **Cancer Genetic Counselor**.
