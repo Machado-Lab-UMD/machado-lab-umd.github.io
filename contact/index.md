@@ -15,8 +15,6 @@ nav:
 
 **Prospective postdocs** are encouraged to contact me inquiring about available opportunities.
 
-**Potential collaborators** interested in discussing research opportunities are welcome to reach out via email or connect with me in person.
-
 {%
   include button.html
   type="email"
