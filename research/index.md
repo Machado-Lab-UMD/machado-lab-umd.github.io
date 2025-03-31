@@ -10,7 +10,7 @@ nav:
 {% include section.html%}
 
 {:.center}
-#### Our lab uses a diverse suite of approaches to uncover the processes shaping species formation and patterns of genomic diversity. Our research focuses on three main key areas.
+#### Our lab uses a diverse suite of approaches to uncover the processes shaping species formation and patterns of genomic diversity. We work on three main key areas/systems.
 {:.center}
 
 {% include section.html %}
@@ -20,7 +20,7 @@ nav:
 
 {% include section.html %}
 ## Investigating Plant-Insect Co-Evolution Through the Fig and Fig Wasp Mutualism
-{% capture content %} {% include figure.html image="images/fig wasps.jpg" caption="Fig wasps associated with _Ficus obtusifolia_" width="200px" %} {% endcapture %} {% include float.html content=content %} Both ecologically and evolutionarily, mutualisms represent one of the most influential of all biological interactions, with fundamental consequences for the evolution and maintenance of biodiversity. Figs (_Ficus sp._, Moraceae) and their pollinating wasps (Agaonidae, Chalcidoidea, Hymenoptera) constitute one of the most extraordinary pollination mutualisms known. In addition to the pollinating wasps, a diverse community of non-pollinating wasps also exploits figs. We are using a diverse suite of integrative “omic” and ecological approaches to characterize the geographic context co-diversification in the fig mutualism, to understand patterns of genome diversity and population genetic diversity, and to uncover genetic and morphological innovation involved in the evolution of synergistic and antagonistic interactions in this mutualism. 
+{% capture content %} {% include figure.html image="images/fig wasps.jpg" caption="Fig wasps associated with _Ficus obtusifolia_" width="200px" %} {% endcapture %} {% include float.html content=content %} Both ecologically and evolutionarily, mutualisms represent one of the most influential of all biological interactions, with fundamental consequences for the evolution and maintenance of biodiversity. Figs (_Ficus sp._, Moraceae) and their pollinating wasps (Agaonidae, Chalcidoidea, Hymenoptera) constitute one of the most extraordinary pollination mutualisms known. In addition to the pollinating wasps, a diverse community of non-pollinating wasps also exploits figs. We are using a diverse suite of integrative “omic” and ecological approaches to characterize the geographic context co-diversification of this mutualism, to understand patterns of genome diversity and population genetic diversity in fig wasps, and to uncover genetic and morphological innovation involved in the evolution of synergistic and antagonistic interactions in this mutualism. 
 
 {% include section.html %}
 ## Studying the Genomic Basis of Crop Domestication and Adaptation in Human Parasites
