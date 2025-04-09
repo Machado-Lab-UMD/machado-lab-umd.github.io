@@ -23,10 +23,10 @@ We are an interdisciplinary team using evolutionary genomic approaches to invest
 
 ## **Lab Alumni**
 ### **PhDs**
-- **Javier Carpinteyro**: PhD Student (UMD, 2022). Now a **Bioinformatics Research Associate** at the **Carnegie Institution for Science**.
-- **Kevin Nyberg**: PhD Student and Postdoc (UMD, 2015). Now an **Assistant Professor** at the **Biological Sciences Department, Ohio University**.
-- **Kawther Abdilleh**: PhD Student (UMD, 2014). Now a **Director, Data Science and Informatics** at the **Pancreatic Cancer Action Network (PanCAN)**.
-- **Carlos A. Flores**: PhD Student (UMD, 2013). Now a **Professor** at the **Faculty of Sciences, Universidad Autónoma de Baja California (UABC), Ensenada, Mexico**.
+- **Javier Carpinteyro**: Now a **Bioinformatics Research Associate** at the **Carnegie Institution for Science**.
+- **Kevin Nyberg**: Now an **Assistant Professor** at the **Biological Sciences Department, Ohio University**.
+- **Kawther Abdilleh**: Now a **Director, Data Science and Informatics** at the **Pancreatic Cancer Action Network (PanCAN)**.
+- **Carlos A. Flores**: Now a **Professor** at the **Faculty of Sciences, Universidad Autónoma de Baja California (UABC), Ensenada, Mexico**.
 
 ### **Postdocs**
 - **Kevin Nyberg**: Now an **Assistant Professor** at the **Ohio University, Biological Sciences Department**.
