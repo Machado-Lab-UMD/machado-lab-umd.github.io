@@ -1,5 +1,5 @@
 ---
-name: Abigial Lakew
+name: Abigail Lakew
 
 image: images/Abigial_Lakew.jpg
 role: undergrad
