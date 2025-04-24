@@ -12,7 +12,7 @@ nav:
 {% include section.html %}
 ## Highlighted
 
-{% include citation.html lookup="Complex Landscape of Structural Divergence" style="rich" %}
+{% include citation.html lookup="Evolutionary Consequences of Unusually Large Pericentric TE-rich Regions in the Genome of a Neotropical Fig Wasp" style="rich" %}
 
 {:.center}
 Check out our full list of publications here!

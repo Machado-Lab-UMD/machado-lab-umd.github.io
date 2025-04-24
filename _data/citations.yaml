@@ -1073,13 +1073,12 @@
   title: Evolutionary Consequences of Unusually Large Pericentric TE-rich Regions
     in the Genome of a Neotropical Fig Wasp
   authors: []
-  publisher: ''
-  date: ''
+  publisher: bioRxiv
+  date: '2025-04-24'
   link: https://doi.org/10.1101/2025.04.20.649723
   type: paper
-  image: images/highligt.png
+  image: images/highlight.png
   tags:
   - pre-print
-  'publisher:': bioRxiv
   plugin: sources.py
   file: sources.yaml
