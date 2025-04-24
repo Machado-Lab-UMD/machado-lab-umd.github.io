@@ -1,27 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/g3journal/jkae258
-  title: Somy evolution in the honey bee infecting trypanosomatid parasite <i>Lotmaria
-    passim</i>
-  authors:
-  - Lindsey M Markowitz
-  - Anthony Nearman
-  - Zexuan Zhao
-  - Dawn Boncristiani
-  - Anzhelika Butenko
-  - Luis Miguel de Pablos
-  - Arturo Marin
-  - Guang Xu
-  - Carlos A Machado
-  - Ryan S Schwarz
-  - Evan C Palmer-Young
-  - Jay D Evans
-  publisher: 'G3: Genes, Genomes, Genetics'
-  date: '2024-11-06'
-  link: https://doi.org/g886cj
-  orcid: 0000-0003-1546-7415
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/gbe/evae047
   title: The Complex Landscape of Structural Divergence Between the <i>Drosophila
     pseudoobscura</i> and <i>D. persimilis</i> Genomes
@@ -1089,5 +1067,9 @@
   date: '2021-02-02'
   link: https://doi.org/gjx8pf
   image: https://www.nature.com/articles/s41467-021-20957-3/figures/3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.04.20.649723
+  image: images/highlight.png
   plugin: sources.py
   file: sources.yaml
