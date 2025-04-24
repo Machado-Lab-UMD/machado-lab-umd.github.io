@@ -1069,7 +1069,3 @@
   image: https://www.nature.com/articles/s41467-021-20957-3/figures/3
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.04.20.649723
-  image: images/highlight.png
-  plugin: sources.py
-  file: sources.yaml
