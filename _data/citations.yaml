@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.04.20.649723
+  title: Evolutionary Consequences of Unusually Large Pericentric TE-rich Regions
+    in the Genome of a Neotropical Fig Wasp
+  authors:
+  - Zexuan Zhao
+  - Kevin Quinteros
+  - Carlos A Machado
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-24'
+  link: https://doi.org/g9gtbh
+  orcid: 0000-0003-1546-7415
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/gbe/evae047
   title: The Complex Landscape of Structural Divergence Between the <i>Drosophila
     pseudoobscura</i> and <i>D. persimilis</i> Genomes
