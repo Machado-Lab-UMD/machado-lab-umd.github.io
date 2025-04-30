@@ -11,8 +11,11 @@
   date: '2025-04-24'
   link: https://doi.org/g9gtbh
   orcid: 0000-0003-1546-7415
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/highlight.png
+  tags:
+  - pre-print
 - id: doi:10.1093/g3journal/jkae258
   title: Somy evolution in the honey bee infecting trypanosomatid parasite <i>Lotmaria
     passim</i>
@@ -1102,18 +1105,5 @@
   date: '2021-02-02'
   link: https://doi.org/gjx8pf
   image: https://www.nature.com/articles/s41467-021-20957-3/figures/3
-  plugin: sources.py
-  file: sources.yaml
-- id: biorxiv:649723
-  title: Evolutionary Consequences of Unusually Large Pericentric TE-rich Regions
-    in the Genome of a Neotropical Fig Wasp
-  authors: []
-  publisher: bioRxiv
-  date: '2025-04-24'
-  link: https://doi.org/10.1101/2025.04.20.649723
-  type: paper
-  image: images/highlight.png
-  tags:
-  - pre-print
   plugin: sources.py
   file: sources.yaml
