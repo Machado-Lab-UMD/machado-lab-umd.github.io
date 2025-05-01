@@ -11,11 +11,8 @@
   date: '2025-04-24'
   link: https://doi.org/g9gtbh
   orcid: 0000-0003-1546-7415
-  plugin: sources.py
-  file: sources.yaml
-  image: images/highlight.png
-  tags:
-  - pre-print
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/g3journal/jkae258
   title: Somy evolution in the honey bee infecting trypanosomatid parasite <i>Lotmaria
     passim</i>
