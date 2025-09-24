@@ -1,3 +1,4 @@
+# use this file to override specific entries in _data/citations.yaml
 - id: doi:10.1093/gbe/evaf158
   image: https://academic.oup.com/view-large/figure/530933379/evaf158f1.jpg
 - id: doi:10.1101/2025.04.20.649723
