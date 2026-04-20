@@ -15,8 +15,8 @@
   file: sources.yaml
   image: https://academic.oup.com/view-large/figure/530933379/evaf158f1.jpg
 - id: doi:10.1093/g3journal/jkae258
-  title: Somy evolution in the honey bee infecting trypanosomatid parasite <i>Lotmaria
-    passim</i>
+  title: "Somy evolution in the honey bee infecting trypanosomatid parasite\n    \
+    \                <i>Lotmaria passim</i>"
   authors:
   - Lindsey M Markowitz
   - Anthony Nearman
@@ -98,7 +98,7 @@
   - "K. Charlotte Jand\xE9r"
   - Deren A. R. Eaton
   - John D. Nason
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-08-05'
   link: https://doi.org/g886cm
   orcid: 0000-0003-1546-7415
@@ -137,8 +137,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.11.10.468115
-  title: Phylogenetic diversity of two common<i>Trypanosoma cruzi</i>lineages in the
-    Southwestern United States
+  title: "Phylogenetic diversity of two common\n                  <i>Trypanosoma cruzi</i>\n\
+    \                  lineages in the Southwestern United States"
   authors:
   - "Carlos A. Flores-L\xF3pez"
   - Elizabeth A. Mitchell
@@ -146,15 +146,16 @@
   - Sahotra Sarkar
   - Philip C. Williamson
   - Carlos A. Machado
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-11-12'
   link: https://doi.org/g886cn
   orcid: 0000-0003-1546-7415
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/evo.14278
-  title: Inversions shape the divergence of<i>Drosophila pseudoobscura</i>and<i>Drosophila
-    persimilis</i>on multiple timescales
+  title: "Inversions shape the divergence of\n                    <i>Drosophila pseudoobscura</i>\n\
+    \                    and\n                    <i>Drosophila persimilis</i>\n \
+    \                   on multiple timescales"
   authors:
   - Katharine L. Korunes
   - Carlos A. Machado
@@ -810,7 +811,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1365-294x.2006.03102.x
-  title: Functional genomics of cactus host shifts in <i> Drosophila mojavensis</i>
+  title: "Functional genomics of cactus host shifts in\n                    <i>Drosophila\
+    \ mojavensis</i>"
   authors:
   - LUCIANO M. MATZKIN
   - THOMAS D. WATTS
@@ -889,8 +891,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1098/rspb.2003.2333
-  title: The causes of phylogenetic conflict in a classic<i>Drosophila</i>species
-    group
+  title: "The causes of phylogenetic conflict in a classic\n                    <i>Drosophila</i>\n\
+    \                    species group"
   authors:
   - C. A. Machado
   - J. Hey
@@ -1075,7 +1077,7 @@
   - Carlos A. Machado
   - "Adalberto G\xF3mez Z\xFA\xF1iga"
   - John D. Nason
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-12-09'
   link: https://doi.org/g89g7p
   orcid: 0000-0003-1546-7415
