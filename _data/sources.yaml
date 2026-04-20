@@ -1,8 +1,6 @@
 # use this file to override specific entries in _data/citations.yaml
 - id: doi:10.1093/gbe/evaf158
   image: https://academic.oup.com/view-large/figure/530933379/evaf158f1.jpg
-- id: doi:10.1101/2025.04.20.649723
-  remove: true
 - id: doi:10.1038/s41467-021-20957-3
   image: https://www.nature.com/articles/s41467-021-20957-3/figures/3
 - id: doi:10.1111/evo.13809
