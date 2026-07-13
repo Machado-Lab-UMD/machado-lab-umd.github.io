@@ -1,7 +1,7 @@
 ---
 name: Zhengren Zhang
 image: images/Zhengren_Zhang.jpg
-role: phd
+role: phd-cand
 affiliation: University of Maryland
 links:
   email: zzhang44@umd.edu

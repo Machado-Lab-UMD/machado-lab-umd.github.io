@@ -23,7 +23,8 @@ We are an interdisciplinary team using evolutionary genomic approaches to invest
 
 ## **Lab Alumni**
 ### **PhDs**
-- **Javier Carpinteyro**: Now a **Bioinformatics Research Associate** at the **Carnegie Institution for Science**.
+- **Ronald Clark**: Now a **Postdoctoral Fellow** at the **National Institute of Child Health and Human Development**.
+- **Javier Carpinteyro**: Now a **Data Engineer** at the **Johns Hopkins Pathology**.
 - **Kevin Nyberg**: Now an **Assistant Professor** at the **Biological Sciences Department, Ohio University**.
 - **Kawther Abdilleh**: Now a **Director, Data Science and Informatics** at the **Pancreatic Cancer Action Network (PanCAN)**.
 - **Carlos A. Flores**: Now a **Professor** at the **Faculty of Sciences, Universidad Autónoma de Baja California (UABC), Ensenada, Mexico**.
